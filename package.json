@@ -1,0 +1,14 @@
+{
+  "name": "eslint",
+  "version": "8.24.0",
+  "description": "linting",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  },
+  "scripts": {
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC"
+}
